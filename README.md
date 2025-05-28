@@ -3,10 +3,6 @@
 # AirBnB Listing & Reviews
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
-## Project Link
-
-[AirBnB Impact of Regulations](https://www.kaggle.com/code/naynishb/airbnb-project-1)
-
 <img src="airbnb-logo.jpeg" width=1000>
 
 ## Overview :
